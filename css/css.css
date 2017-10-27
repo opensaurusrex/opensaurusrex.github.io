@@ -1,7 +1,23 @@
 body {
     padding-top: 5rem;
 }
+.page-title,
 .starter-template {
     padding: 3rem 1.5rem;
     text-align: center;
+}
+.container h4 {
+    font-size: 1.3rem;
+}
+.container h5 {
+    font-size: 1.1rem;
+}
+.container h4 span.dates {
+    font-weight: 100;
+}
+.container div.skills-used {
+    margin-bottom: 1rem;
+}
+.bold {
+    font-weight: bold;
 }
