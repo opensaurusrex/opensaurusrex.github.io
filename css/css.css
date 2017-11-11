@@ -9,15 +9,38 @@ body {
 .container h4 {
     font-size: 1.3rem;
 }
-.container h5 {
-    font-size: 1.1rem;
-}
 .container h4 span.dates {
     font-weight: 100;
+    display: inline-block;
+}
+.container h5 {
+    font-size: 1.1rem;
 }
 .container div.skills-used {
     margin-bottom: 1rem;
 }
 .bold {
     font-weight: bold;
+}
+@media (max-width: 500px) {
+    body {
+        font-size: 0.9rem;
+    }
+    .container h4 {
+        font-size: 1.1rem;
+    }
+    .container h5 {
+        font-size: 0.9rem;
+    }
+}
+@media (max-width: 800px) {
+    .page-title  {
+        padding: 1.5rem 0.5rem;
+        text-align: center;
+    }
+    .container h4 span.dates {
+        display: block;
+        font-size: 1rem;
+        padding-top: 2px;
+    }
 }
