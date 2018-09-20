@@ -1,0 +1,13 @@
+/* TEAM */
+    Web Developer: Alfonso Martinez
+    Contact: opensaurusrex [at] gmail.com
+    Twitter: @OpensaurusRex
+    From: San Antonio, Texas, USA
+
+/* THANKS */
+
+/* SITE */
+    Last Update: 2018/09/19
+    Language: English
+    Doctype: HTML5
+    IDE: PhpStorm
