@@ -18,8 +18,8 @@
   "homepage": "https://github.com/opensaurusrex/opensaurusrex.github.io#readme",
   "dependencies": {},
   "devDependencies": {
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.4"
+    "bootstrap": "^4.1",
+    "jquery": "^3.3",
+    "popper.js": "^1.14"
   }
 }
